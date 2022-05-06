@@ -1,0 +1,151 @@
+{
+  "area": "sat",
+  "level": 3,
+  "quizlist": [
+    {
+      "quiz": [
+        "property",
+        "ownership",
+        "have"
+      ],
+      "option": [
+        "possession",
+        "pipe",
+        "friend",
+        "dog"
+      ],
+      "correct": 1
+    },
+    {
+      "quiz": [
+        "negative",
+        "opposed",
+        "bad"
+      ],
+      "option": [
+        "adverse",
+        "grain",
+        "seed",
+        "OMG"
+      ],
+      "correct": 1
+    },
+    {
+      "quiz": [
+        "job",
+        "career",
+        "occupation"
+      ],
+      "option": [
+        "simultaneously",
+        "profession",
+        "junior",
+        "senior"
+      ],
+      "correct": 2
+    },
+    {
+      "quiz": [
+        "nuclear",
+        "fuel",
+        "arm"
+      ],
+      "option": [
+        "disclosure",
+        "bomb",
+        "knee",
+        "eyes"
+      ],
+      "correct": 2
+    },
+    {
+      "quiz": [
+        "nuclear",
+        "fuel",
+        "arm"
+      ],
+      "option": [
+        "bomb",
+        "sad",
+        "happy",
+        "smile"
+      ],
+      "correct": 1
+    },
+    {
+      "quiz": [
+        "strong",
+        "bold",
+        "tough"
+      ],
+      "option": [
+        "robust",
+        "coat",
+        "funny",
+        "think"
+      ],
+      "correct": 1
+    },
+    {
+      "quiz": [
+        "estimate",
+        "measure",
+        "calculate"
+      ],
+      "option": [
+        "gauge",
+        "pen",
+        "penceil",
+        "ruler"
+      ],
+      "correct": 1
+    },
+    {
+      "quiz": [
+        "money",
+        "hotel",
+        "government"
+      ],
+      "option": [
+        "organize",
+        "pension",
+        "rule",
+        "king"
+      ],
+      "correct": 2
+    },
+    {
+      "quiz": [
+        "accurate",
+        "detailed",
+        "specific"
+      ],
+      "option": [
+        "precise",
+        "resistant",
+        "shot",
+        "pictures"
+      ],
+      "correct": 1
+    },
+    {
+      "quiz": [
+        "model",
+        "character",
+        "type"
+      ],
+      "option": [
+        "underwear",
+        "personality",
+        "pants",
+        "shoes"
+      ],
+      "correct": 2
+    }
+  ],
+  "version": "7.0.7",
+  "author": "twinword inc.",
+  "email": "help@twinword.com",
+  "result_code": "200",
+  "result_msg": "Success"
+}
